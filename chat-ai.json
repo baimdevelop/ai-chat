@@ -14,5 +14,13 @@
     "Beberapa artis terkenal di Indonesia antara lain Raffi Ahmad, Raisa, dan Agnes Monica.",
     "Dalam dunia seni dan hiburan, Indonesia memiliki berbagai bakat yang mendunia.",
     "Artis-artis Indonesia sering kali dikenal baik di dalam negeri maupun internasional."
+  ],
+  ".*presiden.*uganda.*": [
+    "Presiden Uganda saat ini adalah Yoweri Museveni, yang telah menjabat sejak tahun 1986.",
+    "Museveni adalah salah satu pemimpin terpanjang di Afrika dan sering kali kontroversial dalam politiknya."
+  ],
+  ".*presiden.*malaysia.*": [
+    "Presiden Malaysia saat ini adalah Sultan Abdullah Sultan Ahmad Shah, yang mulai menjabat pada tahun 2019.",
+    "Malaysia memiliki sistem monarki konstitusional, di mana jabatan presiden sering kali dipegang oleh sultan-sultan dari negara bagian Malaysia."
   ]
 }
